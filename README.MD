@@ -11,7 +11,11 @@ Twitter  [@0xTripathi](https://twitter.com/0xTripathi)
 
 Discord [brahma7456]()
 
+Sherlock - https://audits.sherlock.xyz/watson/Tri-pathi
 
+code4rena- https://code4rena.com/@Tripathi, @white-boys
+
+codehawks- https://www.codehawks.com/profile/clk3xe9tk0024l808xjc9wkg4
 
 
 # Summary
