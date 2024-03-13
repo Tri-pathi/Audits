@@ -11,11 +11,13 @@ Twitter  [@0xTripathi](https://twitter.com/0xTripathi)
 
 Discord [brahma7456]()
 
-Sherlock - https://audits.sherlock.xyz/watson/Tri-pathi
+Sherlock - https://audits.sherlock.xyz/watson/Tri-pathi 
 
-code4rena- https://code4rena.com/@Tripathi, @white-boys
+code4rena- https://code4rena.com/@Tripathi, @white-boys #323 90 days
 
-codehawks- https://www.codehawks.com/profile/clk3xe9tk0024l808xjc9wkg4
+codehawks- https://www.codehawks.com/profile/clk3xe9tk0024l808xjc9wkg4 #78 ALL time
+
+Hats- https://app.hats.finance/profile/Tripathi  #11 All time
 
 
 # Summary
@@ -32,6 +34,8 @@ codehawks- https://www.codehawks.com/profile/clk3xe9tk0024l808xjc9wkg4
 | [Juicebox Buyback Delegate](https://code4rena.com/audits/2023-05-juicebox-buyback-delegate) | - | Grade B report | 
 | [Salty.IO](https://code4rena.com/audits/2024-01-saltyio#top) | 1 High | 3 Medium | 
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | 1 High | 2 Medium |
+| [Pool Together](https://code4rena.com/audits/2024-03-pooltogether#top) | 2 High | 2 Medium | 
+
 
 
 # CodeHawks
@@ -50,4 +54,11 @@ codehawks- https://www.codehawks.com/profile/clk3xe9tk0024l808xjc9wkg4
 | Contest | High Risk | Medium Risk 
 |:--:|:--:|:--:|
 | [Allo V2](https://audits.sherlock.xyz/contests/109) |  | 1 Medium |
-| [Notional Update #4](https://audits.sherlock.xyz/contests/119) | 1 High  |  |
+| [Notional Update #4](https://audits.sherlock.xyz/contests/119) | 1 High- Rank 6  |  | 
+
+# Hats Finance
+
+| Contest | High Risk | Medium Risk 
+|:--:|:--:|:--:|
+| [Wise Lending](https://app.hats.finance/audit-competitions/wise-lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573/leaderboard) | Rank 2 |    [Ref](https://x.com/HatsFinance/status/1763278172412604840?s=20)
+
