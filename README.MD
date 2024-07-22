@@ -95,3 +95,10 @@ I graduated in May, and since then, I've been fully dedicated to security. I now
 | Contest | High Risk | Medium Risk 
 |:--:|:--:|:--:|
 |[Goat Tech/Smart-contracts](https://cantina.xyz/u/Tripathi) | 1 High | 2 Medium and 6 Low
+
+# Immunefi
+
+| Contest | High Risk | Medium Risk 
+|:--:|:--:|:--:|
+|XYZ Staking protocol| 1- HIGH |   |
+|XYZ Staking protocol|     | Low
