@@ -1,6 +1,6 @@
 # About Me
 
-Namaskar friends. I'm Tripathi, an engineering student who is building DeFi/Zk protocols and spending time on Solidity for bugs. I'm currently active in many competitive audit platforms like Code4rena, CodeHawks, Sherlock, Cantina Code, and Hats
+Namaskar friends. I'm Tripathi, an engineering graduae from IIT Roorkee, building DeFi/Zk protocols and spending time on Solidity for bugs. I'm currently active in many competitive audit platforms like Code4rena, CodeHawks, Sherlock, Cantina Code, and Hats
 
 ## Connect Me
 
@@ -86,9 +86,10 @@ I graduated in May, and since then, I've been fully dedicated to security. I now
 
 | Contest | High Risk | Medium Risk 
 |:--:|:--:|:--:|
-| [Wise Lending](https://app.hats.finance/audit-competitions/wise-lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573/leaderboard) | 0 |  2  (Rank 2)
-| [Origami](https://app.hats.finance/audit-competitions/origami-0x998f1b716a5022be026ca6b919c0ddf45ca31abd/leaderboard) | 0 | 1 (Rank 8)
-| [Safe](https://app.hats.finance/audit-competitions/safe-0x2909fdefd24a1ced675cb1444918fa766d76bdac/rewards) |0| 1 Low (Rank 1)
+| [Wise Lending](https://app.hats.finance/audit-competitions/wise-lending-0xa2ca45d6e249641e595d50d1d9c69c9e3cd22573/leaderboard) |  |  2  (Rank 2)
+| [Origami](https://app.hats.finance/audit-competitions/origami-0x998f1b716a5022be026ca6b919c0ddf45ca31abd/leaderboard) |  | 1 (Rank 8) |
+| [Safe](https://app.hats.finance/audit-competitions/safe-0x2909fdefd24a1ced675cb1444918fa766d76bdac/rewards) |   | 1 Low (Rank 1)
+| [Velvet Capital](https://app.hats.finance/audit-competitions/velvet-capital-0x0bb0c08fd9eeaf190064f4c66f11d18182961f77/rewards)  | | 1 Medium
 
 # Cantina
 
@@ -100,5 +101,5 @@ I graduated in May, and since then, I've been fully dedicated to security. I now
 
 | Contest | High Risk | Medium Risk 
 |:--:|:--:|:--:|
-|XYZ Staking protocol| 1- HIGH |   |
+|XYZ Staking protocol| 1-HIGH |   |
 |XYZ Staking protocol|     | Low
